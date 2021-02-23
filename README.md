@@ -1,2 +1,2 @@
 # Tourify
-project-url : https://subhambharadwaz.github.io/Travelly/
+project-url : https://subhambharadwaz.github.io/Tourify/
